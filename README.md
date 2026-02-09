@@ -162,7 +162,6 @@ Desarrolladora Frontend apasionada por crear soluciones elegantes y eficientes. 
 </div>
 
 <div align="center">
-
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ainy04&theme=radical&hide_border=true&background=1a1a1a&stroke=b8860b&ring=d4af37&fire=8b0000&currStreakLabel=AF9013&border=b8860b&sideLabels=e8e8e8&currStreakNum=e8e8e8&dates=c0c0c0" />
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ainy04&theme=redical&hide_border=true&bg_color=1a1a1a&color=d4af37&line=8b0000&point=AF9013&area_color=8b0000&area=true" />
@@ -184,14 +183,6 @@ Desarrolladora Frontend apasionada por crear soluciones elegantes y eficientes. 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=About.me&logoColor=d4af37&labelColor=2d2d2d)](https://tu-portfolio.com)
 [![Email](https://img.shields.io/badge/Email-B8860B?style=for-the-badge&logo=gmail&logoColor=f5f5f5&labelColor=1a1a1a)](mailto:tu@email.com)
 
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Contribution Graph
-![Snake animation](https://raw.githubusercontent.com/Ainy04/Ainy04/output/github-contribution-grid-snake-dark.svg)
 </div>
 
 ---
