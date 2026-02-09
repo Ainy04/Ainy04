@@ -191,7 +191,7 @@ Desarrolladora Frontend apasionada por crear soluciones elegantes y eficientes. 
 <div align="center">
 
 ### 🐍 Contribution Graph
-![Snake animation](https://raw.githubusercontent.com/Ainy04/Ainy04/output/github-contribution-grid-snake-dark.svg) 
+![Snake animation](https://raw.githubusercontent.com/Ainy04/Ainy04/output/github-contribution-grid-snake.svg?v=2) 
 </div>
 
 ---
