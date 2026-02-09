@@ -153,7 +153,7 @@ Desarrolladora Frontend apasionada por crear soluciones elegantes y eficientes. 
     </td>
 </tr>
 </table>
----
+
 
 <div align="center">
 
@@ -163,7 +163,6 @@ Desarrolladora Frontend apasionada por crear soluciones elegantes y eficientes. 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ainy04&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a1a&title_color=d4af37&icon_color=8b0000&text_color=e8e8e8&border_color=b8860b" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ainy04&theme=radical&hide_border=true&background=1a1a1a&stroke=b8860b&ring=d4af37&fire=8b0000&currStreakLabel=AF9013&border=b8860b&sideLabels=e8e8e8&currStreakNum=e8e8e8&dates=c0c0c0" />
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ainy04&theme=redical&hide_border=true&bg_color=1a1a1a&color=d4af37&line=8b0000&point=AF9013&area_color=8b0000&area=true" />
